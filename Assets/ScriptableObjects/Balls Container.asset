@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c672e5bf2ccef34cbd51aa96b5da9a3, type: 3}
+  m_Name: Balls Container
+  m_EditorClassIdentifier: 
+  _ballPrefabs:
+  - {fileID: 525283883821283505, guid: f5cd31c56ed89214ab020a6f9cf56dd7, type: 3}
+  - {fileID: 525283883821283505, guid: f7ce5d4eba29c8f49af94c947a7745fc, type: 3}
+  - {fileID: 525283883821283505, guid: a6c060b00343659418fca5374fc8fa4b, type: 3}
